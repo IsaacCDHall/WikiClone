@@ -1,0 +1,51 @@
+.nav-sidebar {
+  float: left;
+  margin-left: -12%;
+  border: solid;
+  border-width: 1px;
+  border-color: #43BEFF;
+  background-color: #f0f0f5;
+  border-bottom-width: 0em;
+  border-top-width: 0em;
+  padding: .5em;
+  padding-top: 10em;
+}
+
+#long-break {
+  display: block;
+  content: "";
+  margin-top: 80em;
+}
+
+.navbar-header{
+  float: right;
+}
+
+.container-fluid {
+
+  float: right;
+}
+
+#centercolumn {
+  border-width: 10px;
+  margin: -130%;
+  margin-left: 2em;
+  margin-right: -10em;
+  padding: 2em;
+  border: solid;
+}
+
+#left-column {
+  border-width: 1px;
+  border: solid;
+  padding: .5em;
+  margin: 1em;
+
+}
+
+#right-column {
+  border-width: 1px;
+  border: solid;
+  padding: 1em;
+  margin: 1em;
+}
